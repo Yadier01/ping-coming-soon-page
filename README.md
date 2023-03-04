@@ -36,8 +36,9 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/first-time-using-tailwind-GScSGKGjSc
+)
+- Live Site URL: [Add live site URL here](https://frontendmentor-ping-coming-soon-page.netlify.app/)
 
 ### Built with
 
@@ -53,7 +54,7 @@ i learnd how to use tailwind. i liked it a lot so probably gonna keep using it.
 
 ## Author
 
-- Website - [Yadier Gonzalez](https://www.your-site.com)
+
 - Frontend Mentor - [@kcaBsIemaNeht](https://www.frontendmentor.io/profile/kcaBsIemaNeht)
 
 ## Acknowledgments
