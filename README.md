@@ -32,7 +32,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](images/Screenshot%202023-03-03%20at%2019-11-51%20Frontend%20Mentor%20Ping%20coming%20soon%20page.png alt="alt)
+![](/images/Screenshot%202023-03-03%20at%2019-11-51%20Frontend%20Mentor%20Ping%20coming%20soon%20page.png)
 
 ### Links
 
